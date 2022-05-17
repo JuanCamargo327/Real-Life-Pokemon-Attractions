@@ -1,0 +1,13 @@
+.pikachu {
+    margin: 10px;
+    display: flex;
+justify-content: flex-end;
+}
+
+img{
+border:10px solid green;
+margin: 10px;
+}
+
+
+
